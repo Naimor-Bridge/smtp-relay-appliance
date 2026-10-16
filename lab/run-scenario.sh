@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-# TEMPLATE — does not parse until you replace <APPLIANCE-*> placeholders
-# (see ../INSTANTIATE.md step 4).
-#
 # lab/run-scenario.sh — smtp-relay-appliance-specific wrapper around the
 # generic ../lab-kit/bin/run-scenario.sh runner.
 #

@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
 #===============================================================================
-# TEMPLATE — does not parse until you replace <APPLIANCE-*> placeholders.
-# The angle-bracket placeholders look like I/O redirection to bash, so
-# `bash -n` will fail on the unfilled template. After running the
-# find-and-replace from INSTANTIATE.md step 4, this script parses cleanly.
-#===============================================================================
 # prepare-image.sh — SMTP Relay Appliance Image Preparation
 #
 # Run ONCE on a fresh Debian 13 (Trixie) minimal install to:

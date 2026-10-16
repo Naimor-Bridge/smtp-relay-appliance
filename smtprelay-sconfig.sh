@@ -1,10 +1,4 @@
 #!/usr/bin/env bash
-#===============================================================================
-# TEMPLATE — does not parse until you replace <APPLIANCE-*> placeholders
-# AND rename this file (the filename itself contains a placeholder).
-# The angle-bracket placeholders look like I/O redirection to bash, so
-# `bash -n` will fail on the unfilled template.
-#===============================================================================
 # smtprelay-sconfig — SMTP Relay Appliance Configuration Tool
 #
 # Whiptail TUI plus headless CLI. Handles deployment configuration and

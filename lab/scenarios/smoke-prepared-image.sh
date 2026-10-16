@@ -1,7 +1,4 @@
 # shellcheck shell=bash
-# TEMPLATE — does not parse until you replace <APPLIANCE-*> placeholders
-# (see ../../INSTANTIATE.md step 4).
-#
 # lab/scenarios/smoke-prepared-image.sh — verify the golden appliance
 # image before any per-deployment operation.
 #
